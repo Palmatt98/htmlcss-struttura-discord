@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* HEADER */
+.contaier-header{
+	height: 80px;
+	background-color: #add8e6;
+	display: flex;
+	justify-content: center;
+	flex-direction: reverse;
+}
+.section1{
+	height: 40px;
+	width: 20%;
+	background-color: #daa520 ;
+	border: 1px dashed black;
+}
+.section2{
+	height: 40px;
+	width: 40%;
+	background-color: #daa520 ;
+	border: 1px dashed black;
+	text-align: center;
+	
+}
+.section3{
+	height: 40px;
+	width: 20%;
+	background-color: #daa520 ;
+	border: 1px dashed black;
+	text-align: end;
+}
+/* /HEADER */
+
+/* MAIN */
+.parte-blue{
+	height: 400px;
+	background-color: #00008b;
+	display: flex;
+	justify-content: center;
+	
+}
+.parte-viola{
+	height: 300px;
+	width: 40%;
+	background-color: #ee82ee;
+	margin-top: 50px;
+	border: 1px dashed black;
+
+}
+.parte-celeste{
+	
+}
+
+/* -/MAIN */
