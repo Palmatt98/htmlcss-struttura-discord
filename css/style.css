@@ -35,6 +35,7 @@
 /* /HEADER */
 
 /* MAIN */
+/* PRIMO BLOCCO */
 .parte-blue{
 	height: 400px;
 	background-color: #00008b;
@@ -49,9 +50,82 @@
 	margin-top: 50px;
 	border: 1px dashed black;
 
+/* /PRIMO BLOCCO */
+
+/* SECONDO BLOCCO */
+}
+.parte-bianca{
+	height: 300px;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
 }
 .parte-celeste{
-	
+	height: 300px;
+	width: 500px;
+	background-color: #1e90ff;
+	border: 1px dashed black;
+
+	/* /SECONDO BLOCCO */
+
+	/* TERZO BLOCCO */
+}
+.parte-rosa{
+	height: 300px;
+	width: 400px;
+	background-color: #ffc0cb;
+	border: 1px dashed black;
+}
+.parte-grigia{
+	height: 400px;
+	background-color: #d3d3d3;
+	display: flex;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+}
+/* /TERZO BLOCCO */
+
+/* QUARTO BLOCCO */
+.bg-grey{
+	height: 500px;
+	background-color: #d3d3d3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.green-square{
+	height: 400px;
+	width: 800px;
+	background-color: #228b22;
+	border: 1px dashed black;
 }
 
+.bg-black{
+	height: 400px;
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.meet-rosa{
+	height: 300px;
+	width: 200px;
+	background-color: #f08080;
+	border: 1px dashed black;
+}
+.acquamarine{
+	height: 300px;
+	width: 100px;
+	background-color: #20b2aa;
+	border: 1px dashed black;
+}
+/* /QUARTO BLOCCO */
+/* QUINTO BLOCCO */
+/* FOOTER */
+
+/* /FOOTER */
+/* QUINTO BLOCCO */
 /* -/MAIN */
